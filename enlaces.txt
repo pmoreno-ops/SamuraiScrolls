@@ -1,0 +1,57 @@
+<<<<<<< HEAD
+Enlaces para unity
+
+
+https://craftpix.net/?s=ninja+pixel+art
+
+https://craftpix.net/freebies/free-yokai-pixel-art-character-sprites/
+
+https://www.google.com/search?q=background+pixel+art+para+videojuego+2d+japon+feudal&newwindow=1&sca_esv=28c94b53a779764f&udm=2&biw=1366&bih=599&ei=aBCLaa2OBtCpkdUP6LbQiQ8&ved=0ahUKEwit4uGY486SAxXQVKQEHWgbNPEQ4dUDCBI&uact=5&oq=background+pixel+art+para+videojuego+2d+japon+feudal&gs_lp=Egtnd3Mtd2l6LWltZyI0YmFja2dyb3VuZCBwaXhlbCBhcnQgcGFyYSB2aWRlb2p1ZWdvIDJkIGphcG9uIGZldWRhbEjkgwFQhQJYo4IBcAt4AJABAJgBbaAB9B2qAQQ0Ny4xuAEDyAEA-AEBmAIPoALYB8ICBhAAGAgYHsICCBAAGAgYChgewgIEEAAYHsICBxAAGIAEGBPCAgYQABgTGB7CAggQABgTGAoYHsICBhAAGAoYHpgDAIgGAZIHAjE1oAfpOrIHAjEyuAfUB8IHBTYuMy42yAcggAgA&sclient=gws-wiz-img&safe=active&ssui=on#sv=CAMSXhoyKhBlLVlBTzhUVzVQNzc1Y3ZNMg5ZQU84VFc1UDc3NWN2TToOQV9fZVlIbFgzVVY0ak0gBCokCg4zU3BkdFZqQ3pFd1ZFTRIQZS1ZQU84VFc1UDc3NWN2TRgAMAEYByChisvKAjACSggQAhgCIAIoAg
+
+
+
+https://assetstore.unity.com/packages/2d/environments/background-pixel-samurai-1-291526?srsltid=AfmBOoqlh4FPEXsDQ4z17Pyxz84r9g7hhiCQxCo60r27uOVo-1OXCFxG 
+
+
+
+https://itch.io/search?q=Pixel+Art+Samurai
+
+https://itch.io/search?q=Ninja+Adventure+Asset+Pack
+
+https://itch.io/search?q=samurai+pixel+art+background
+
+https://itch.io/search?q=ninja+pixel+art+background
+
+https://itch.io/search?q=Samurai+2D+Pixel+Art
+
+
+
+=======
+Enlaces para unity
+
+
+https://craftpix.net/?s=ninja+pixel+art
+
+https://craftpix.net/freebies/free-yokai-pixel-art-character-sprites/
+
+https://www.google.com/search?q=background+pixel+art+para+videojuego+2d+japon+feudal&newwindow=1&sca_esv=28c94b53a779764f&udm=2&biw=1366&bih=599&ei=aBCLaa2OBtCpkdUP6LbQiQ8&ved=0ahUKEwit4uGY486SAxXQVKQEHWgbNPEQ4dUDCBI&uact=5&oq=background+pixel+art+para+videojuego+2d+japon+feudal&gs_lp=Egtnd3Mtd2l6LWltZyI0YmFja2dyb3VuZCBwaXhlbCBhcnQgcGFyYSB2aWRlb2p1ZWdvIDJkIGphcG9uIGZldWRhbEjkgwFQhQJYo4IBcAt4AJABAJgBbaAB9B2qAQQ0Ny4xuAEDyAEA-AEBmAIPoALYB8ICBhAAGAgYHsICCBAAGAgYChgewgIEEAAYHsICBxAAGIAEGBPCAgYQABgTGB7CAggQABgTGAoYHsICBhAAGAoYHpgDAIgGAZIHAjE1oAfpOrIHAjEyuAfUB8IHBTYuMy42yAcggAgA&sclient=gws-wiz-img&safe=active&ssui=on#sv=CAMSXhoyKhBlLVlBTzhUVzVQNzc1Y3ZNMg5ZQU84VFc1UDc3NWN2TToOQV9fZVlIbFgzVVY0ak0gBCokCg4zU3BkdFZqQ3pFd1ZFTRIQZS1ZQU84VFc1UDc3NWN2TRgAMAEYByChisvKAjACSggQAhgCIAIoAg
+
+
+
+https://assetstore.unity.com/packages/2d/environments/background-pixel-samurai-1-291526?srsltid=AfmBOoqlh4FPEXsDQ4z17Pyxz84r9g7hhiCQxCo60r27uOVo-1OXCFxG 
+
+
+
+https://itch.io/search?q=Pixel+Art+Samurai
+
+https://itch.io/search?q=Ninja+Adventure+Asset+Pack
+
+https://itch.io/search?q=samurai+pixel+art+background
+
+https://itch.io/search?q=ninja+pixel+art+background
+
+https://itch.io/search?q=Samurai+2D+Pixel+Art
+
+
+
+>>>>>>> e6b46ddf33b4fe1f5e3f83b236148cf7c8360e01
